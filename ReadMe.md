@@ -22,6 +22,6 @@ I, Aarush Oberoi, am a 14-year-old high school freshman in New Delhi, India with
 ![](https://github-contributor-stats.vercel.app/api?username=AarushOberoi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AarushOberoi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
