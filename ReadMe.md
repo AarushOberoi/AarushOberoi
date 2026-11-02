@@ -10,4 +10,4 @@ I, Aarush Oberoi, am a 14-year-old high school freshman in New Delhi, India with
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=AarushOberoi&icon=2&color=0)](https://visitcount.itsvg.in)
+
